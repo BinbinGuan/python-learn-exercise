@@ -1,0 +1,71 @@
+# 学习python
+# 学习云计算
+# 学习linux
+# 学习mq
+# 学习缓存
+# 学习mysql
+# 学习docker
+# 学习jvm 优化
+# 学习并发
+# 学习spring
+# 学习分布式	
+# 学习多线程
+# 学习微服务
+翻墙工具搭建
+
+学习python mysql rabbitmq
+
+# mysql隔离级别
+# https://blog.51cto.com/11140372/2363619
+# https://www.cnblogs.com/wangcp-2014/p/6441741.html
+
+https://blog.csdn.net/u010830004/article/details/79869457
+https://www.linuxidc.com/Linux/2014-04/99721.htm
+
+
+# mysql高级
+# mq
+# 缓存
+# python
+# 云计算
+
+# 架构图
+一张表建5个索引
+
+b数，二插法 树三层，三次io即可，根，值，叶。叶是真实数据，根和值是印子
+
+
+索引，检索和排序
+
+
+300万数据
+
+
+
+
+
+建立连接，mac地址 arp协议
+
+交换机,存储mac地址
+tci 建立连接，确认
+
+同一网络，同一网段，同一子网  ，路由的网关就是接口，路由-》路由表，主机-》路由-》出口-下一跳
+
+一个英文字母等于1个字节B，一个汉子等于2个字节，一个字节等于8个bit
+
+%% 右边不失效，复合索引，可以解决两边都%问题
+
+
+mkdir -p a/b/c
+
+rm 删除文件
+rm -r 删除文件夹
+rm -rf 强制删除文件
+
+
+
+博客整理，mysql
+linux
+gedit 打开并编辑
+
+下周mq和缓存
