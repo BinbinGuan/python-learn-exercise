@@ -69,3 +69,27 @@ linux
 gedit 打开并编辑
 
 下周mq和缓存
+
+
+db = mdb.connect("localhost", "root", "P@ssw0rd", "python_test", charset='utf8' )
+
+guanbin/Passw0rd
+user = User.objects.get(username='guanbin')
+
+
+在文件夹下
+pip install pipenv
+即，要激活虚拟环境，在项目根目录下运行 pipenv shell 命令。
+
+或者，没有激活虚拟环境的情况下，运行 pipenv run + 命令，也可以在虚拟环境中执行指定的命令。
+
+
+ pipenv run django-admin startproject blogproject /Users/guanbinbin/Downloads/workspace/HelloDjango-blog-tutorial
+
+ pipenv run python manage.py runserver
+
+ 现在就来创建我们的 django 博客应用，我把它命名为 blog。进入到 manage.py 文件所在的目录（即项目根目录）下，运行 pipenv run python manage.py startapp blog 命令即可建立一个 blog 应用：
+
+
+ 迁移数据库
+为了让 django 完成翻译，创建好这些数据库表，我们再一次请出我的工程管理助手 manage.py。切换到 manage.py 文件所在的目录（项目根目录）下，分别运行 pipenv run python manage.py makemigrations 和 pipenv run python manage.py migrate 命令：
